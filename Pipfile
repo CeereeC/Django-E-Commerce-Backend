@@ -13,6 +13,7 @@ django-filter = "*"
 djoser = "*"
 djangorestframework-simplejwt = "*"
 gunicorn = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
